@@ -1,0 +1,9 @@
+{
+    "providerId": "55ca363c-4ebe-4e3f-8d1f-38eff56cc176",
+    "name": "Manifest_Provider_Refresh",
+    "details": "Azure Managed Service Provider",
+    "version": "1.0.0",
+    "brokerVersion": "2.14",
+    "url": "http://osb-test-sample-broker"
+}
+
