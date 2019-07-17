@@ -4,6 +4,6 @@
     "details": "Azure Managed Service Provider",
     "version": "1.0.0",
     "brokerVersion": "2.14",
-    "url": "http://40.114.125.118:8080",
+    "url": "http://10.202.40.80:8080",
     "trusted": true
 }
