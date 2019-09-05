@@ -4,6 +4,6 @@
     "details": "Azure Managed Service Provider1",
     "version": "1.0.0",
     "brokerVersion": "2.14",
-    "url": "https://10.202.40.80:9999",
+    "url": "http://ec2-13-234-110-189.ap-south-1.compute.amazonaws.com:2346",
     "trusted": true
 }
