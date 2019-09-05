@@ -4,6 +4,6 @@
     "details": "Azure Managed Service Provider1",
     "version": "1.0.0",
     "brokerVersion": "2.14",
-    "url": "https://mspazure.dev.hpedevops.net",
+    "url": "https://10.202.40.80:9999",
     "trusted": true
 }
